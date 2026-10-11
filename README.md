@@ -6,6 +6,13 @@
 
 [English](#english) · [العربية](#العربية)
 
+<p align="center">
+  <img src="docs/screenshots/joystick.jpg" alt="Joystick" width="180" />
+  <img src="docs/screenshots/spoofing.jpg" alt="Spoofing" width="180" />
+  <img src="docs/screenshots/map.jpg" alt="Map" width="180" />
+  <img src="docs/screenshots/route.jpg" alt="Route" width="180" />
+</p>
+
 
 ## English
 
