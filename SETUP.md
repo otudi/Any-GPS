@@ -80,7 +80,6 @@ If you tap **Teleport** while **Check** is red, AnyGPS asks to check first — t
 | Developer service not found | Turn LocalDevVPN off and on, tap **Check** again. If it continues, pair again (Settings → Pair on this iPhone). |
 | No pairing file | Settings → **Pair on this iPhone**. |
 | Location doesn't return after Stop | Turn LocalDevVPN off and on. |
-| Big blue location bubble at the top while simulating | Settings → AnyGPS → Location → **Always**. Then iOS shows only a small arrow. |
 
 ## العربية
 
@@ -160,4 +159,3 @@ If you tap **Teleport** while **Check** is red, AnyGPS asks to check first — t
 | لم يتم العثور على خدمة المطوّر | أطفئ تطبيق النفق وشغّله من جديد، ثم اضغط **افحص الاتصال**. إذا استمرت المشكلة أعد الإقران من الإعدادات. |
 | لا يوجد ملف إقران | من الإعدادات اضغط **الإقران على هذا الآيفون**. |
 | الموقع ما رجع بعد الإيقاف | أطفئ تطبيق النفق وشغّله من جديد. |
-| فقاعة الموقع الزرقاء الكبيرة فوق أثناء المحاكاة | الإعدادات ← التطبيق ← الموقع ← **دائمًا**. بعدها يظهر سهم صغير فقط. |
