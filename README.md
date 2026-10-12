@@ -1,8 +1,8 @@
 # AnyGPS
 
-**Version 1.0.23**
+**Version 1.0.24**
 
-[**Download IPA · v1.0.23**](https://github.com/otudi/Any-GPS/raw/main/AnyGPS-1.0.23.ipa)
+[**Download IPA · v1.0.24**](https://github.com/otudi/Any-GPS/raw/main/AnyGPS-1.0.24.ipa)
 
 [English](#english) · [العربية](#العربية)
 
